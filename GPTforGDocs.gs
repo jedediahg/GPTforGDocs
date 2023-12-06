@@ -1,3 +1,5 @@
+// copyright J. Grant, 2023, free to use under Apache 2.0 license. If would like to incorporate automation into your KYC/AML compliance program, please visit https://kyc3.com
+
 // Globals 
 var aiModel = "gpt-3.5-turbo-1106"; // default
 const API_ENDPOINT = "https://api.openai.com/v1/chat/completions";
