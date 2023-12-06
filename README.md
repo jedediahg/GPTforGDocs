@@ -1,6 +1,10 @@
 # GPTforGDocs
 ## Open AI assistant for Google Docs
-This is a simple menu extension for Google Docs. With it you can select elements in the docs that contain text and have GPT take action on it. Once installed, you will fid a new ChatGPT menu with several items.
+This is a simple menu extension for Google Docs. With it you can select elements in the docs that contain text and have GPT take action on it. 
+## Installation
+To install, simply open a Google Doc and go to *Extensions->Apps Script*. Paste the script into the editor and save. Reload your document.  You can also deploy this as an add-on to make it available in all your Google docs.
+## Usage
+Once installed, you will fid a new ChatGPT menu with several items.
 |Command|Action|
 |-----|-----|
 |*Summarize this...* | Create a summary paragraph of the selected text.| 
